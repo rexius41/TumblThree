@@ -53,6 +53,7 @@ namespace TumblThree.Applications.Services
             oauthManager = new OAuthManager();
         }
 
+
         public object SettingsView
         {
             get => settingsView;
